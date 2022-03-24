@@ -1,0 +1,58 @@
+c:\users\phony\documents\visual studio 2017\Projects\编译实验\编译实验\bin\Debug\编译实验.exe.config
+c:\users\phony\documents\visual studio 2017\Projects\编译实验\编译实验\bin\Debug\编译实验.exe
+c:\users\phony\documents\visual studio 2017\Projects\编译实验\编译实验\bin\Debug\编译实验.pdb
+c:\users\phony\documents\visual studio 2017\Projects\编译实验\编译实验\obj\Debug\编译实验.csprojResolveAssemblyReference.cache
+c:\users\phony\documents\visual studio 2017\Projects\编译实验\编译实验\obj\Debug\编译实验.frm_main.resources
+c:\users\phony\documents\visual studio 2017\Projects\编译实验\编译实验\obj\Debug\编译实验.Properties.Resources.resources
+c:\users\phony\documents\visual studio 2017\Projects\编译实验\编译实验\obj\Debug\编译实验.csproj.GenerateResource.Cache
+c:\users\phony\documents\visual studio 2017\Projects\编译实验\编译实验\obj\Debug\编译实验.exe
+c:\users\phony\documents\visual studio 2017\Projects\编译实验\编译实验\obj\Debug\编译实验.pdb
+C:\Users\jsj6\Desktop\新建文件夹\编译实验\编译实验\bin\Debug\编译实验.exe.config
+C:\Users\jsj6\Desktop\新建文件夹\编译实验\编译实验\bin\Debug\编译实验.exe
+C:\Users\jsj6\Desktop\新建文件夹\编译实验\编译实验\bin\Debug\编译实验.pdb
+C:\Users\jsj6\Desktop\新建文件夹\编译实验\编译实验\obj\Debug\编译实验.csprojResolveAssemblyReference.cache
+C:\Users\jsj6\Desktop\新建文件夹\编译实验\编译实验\obj\Debug\编译实验.frm_main.resources
+C:\Users\jsj6\Desktop\新建文件夹\编译实验\编译实验\obj\Debug\编译实验.Properties.Resources.resources
+C:\Users\jsj6\Desktop\新建文件夹\编译实验\编译实验\obj\Debug\编译实验.csproj.GenerateResource.Cache
+C:\Users\jsj6\Desktop\新建文件夹\编译实验\编译实验\obj\Debug\编译实验.csproj.CoreCompileInputs.cache
+C:\Users\jsj6\Desktop\新建文件夹\编译实验\编译实验\obj\Debug\编译实验.exe
+C:\Users\jsj6\Desktop\新建文件夹\编译实验\编译实验\obj\Debug\编译实验.pdb
+C:\Users\jsj6\Desktop\新建文件夹 (3)\编译实验\bin\Debug\编译实验.exe.config
+C:\Users\jsj6\Desktop\新建文件夹 (3)\编译实验\bin\Debug\编译实验.exe
+C:\Users\jsj6\Desktop\新建文件夹 (3)\编译实验\bin\Debug\编译实验.pdb
+C:\Users\jsj6\Desktop\新建文件夹 (3)\编译实验\obj\Debug\编译实验.csprojResolveAssemblyReference.cache
+C:\Users\jsj6\Desktop\新建文件夹 (3)\编译实验\obj\Debug\编译实验.frm_main.resources
+C:\Users\jsj6\Desktop\新建文件夹 (3)\编译实验\obj\Debug\编译实验.Properties.Resources.resources
+C:\Users\jsj6\Desktop\新建文件夹 (3)\编译实验\obj\Debug\编译实验.csproj.GenerateResource.Cache
+C:\Users\jsj6\Desktop\新建文件夹 (3)\编译实验\obj\Debug\编译实验.csproj.CoreCompileInputs.cache
+C:\Users\jsj6\Desktop\新建文件夹 (3)\编译实验\obj\Debug\编译实验.exe
+C:\Users\jsj6\Desktop\新建文件夹 (3)\编译实验\obj\Debug\编译实验.pdb
+D:\编译实验 新\编译实验\编译实验\bin\Debug\编译实验.exe.config
+D:\编译实验 新\编译实验\编译实验\bin\Debug\编译实验.exe
+D:\编译实验 新\编译实验\编译实验\bin\Debug\编译实验.pdb
+D:\编译实验 新\编译实验\编译实验\obj\Debug\编译实验.csprojResolveAssemblyReference.cache
+D:\编译实验 新\编译实验\编译实验\obj\Debug\编译实验.frm_main.resources
+D:\编译实验 新\编译实验\编译实验\obj\Debug\编译实验.Properties.Resources.resources
+D:\编译实验 新\编译实验\编译实验\obj\Debug\编译实验.csproj.GenerateResource.Cache
+D:\编译实验 新\编译实验\编译实验\obj\Debug\编译实验.csproj.CoreCompileInputs.cache
+D:\编译实验 新\编译实验\编译实验\obj\Debug\编译实验.exe
+D:\编译实验 新\编译实验\编译实验\obj\Debug\编译实验.pdb
+C:\Users\phony\Desktop\编译实验\编译实验\bin\Debug\编译实验.exe.config
+C:\Users\phony\Desktop\编译实验\编译实验\bin\Debug\编译实验.exe
+C:\Users\phony\Desktop\编译实验\编译实验\bin\Debug\编译实验.pdb
+C:\Users\phony\Desktop\编译实验\编译实验\obj\Debug\编译实验.csprojResolveAssemblyReference.cache
+C:\Users\phony\Desktop\编译实验\编译实验\obj\Debug\编译实验.frm_main.resources
+C:\Users\phony\Desktop\编译实验\编译实验\obj\Debug\编译实验.Properties.Resources.resources
+C:\Users\phony\Desktop\编译实验\编译实验\obj\Debug\编译实验.csproj.GenerateResource.Cache
+C:\Users\phony\Desktop\编译实验\编译实验\obj\Debug\编译实验.csproj.CoreCompileInputs.cache
+C:\Users\phony\Desktop\编译实验\编译实验\obj\Debug\编译实验.exe
+C:\Users\phony\Desktop\编译实验\编译实验\obj\Debug\编译实验.pdb
+C:\Users\phony\Desktop\编译实验 A\编译实验\bin\Debug\编译实验.exe.config
+C:\Users\phony\Desktop\编译实验 A\编译实验\bin\Debug\编译实验.exe
+C:\Users\phony\Desktop\编译实验 A\编译实验\bin\Debug\编译实验.pdb
+C:\Users\phony\Desktop\编译实验 A\编译实验\obj\Debug\编译实验.csprojResolveAssemblyReference.cache
+C:\Users\phony\Desktop\编译实验 A\编译实验\obj\Debug\编译实验.frm_main.resources
+C:\Users\phony\Desktop\编译实验 A\编译实验\obj\Debug\编译实验.Properties.Resources.resources
+C:\Users\phony\Desktop\编译实验 A\编译实验\obj\Debug\编译实验.csproj.GenerateResource.Cache
+C:\Users\phony\Desktop\编译实验 A\编译实验\obj\Debug\编译实验.exe
+C:\Users\phony\Desktop\编译实验 A\编译实验\obj\Debug\编译实验.pdb
